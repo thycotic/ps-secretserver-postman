@@ -6,7 +6,9 @@ This repository holds the collection and the environment variable JSON files to 
 
 The collection allows you to test the Secret Server APIs from within Postman. This collection will work against both Secret Server (on-premises) and Secret Server Cloud.
 
-Support covers using the OAuth2 authentication and tries to simplify your ability to get started fast with testing and discovery of the Secret Server API.
+![postman example view](/images/postman-example-view.png)
+
+This repository has been created to share a tool that can expand your understanding of what the Secret Server API offers.
 
 # Setup
 
@@ -18,7 +20,11 @@ To setup the Postman collections follow these steps:
 4. Past the following two URLs and click Import after each.
 
 ```
-To be populated once we publish to GitHub, these will be the raw GitHub URL for both json files
+https://raw.githubusercontent.com/thycotic/ps-secretserver-postman/master/Secert%20Server.postman_environment.json?token=ACVPNGYEDO2PYXNX2CTYWAK6WRA4Y
+```
+
+```
+https://raw.githubusercontent.com/thycotic/ps-secretserver-postman/master/Secret%20Server.postman_collection.json?token=ACVPNG53MFU4BRK5F5POGZ26WRA6K
 ```
 
 You should now see the `Secret Server` collection on the left hand side Collections pane.
