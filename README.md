@@ -20,11 +20,11 @@ To setup the Postman collections follow these steps:
 4. Past the following two URLs and click Import after each.
 
 ```
-https://raw.githubusercontent.com/thycotic/ps-secretserver-postman/master/Secert%20Server.postman_environment.json?token=ACVPNGYEDO2PYXNX2CTYWAK6WRA4Y
+https://raw.githubusercontent.com/thycotic/ps-secretserver-postman/master/Secert%20Server.postman_environment.json
 ```
 
 ```
-https://raw.githubusercontent.com/thycotic/ps-secretserver-postman/master/Secret%20Server.postman_collection.json?token=ACVPNG53MFU4BRK5F5POGZ26WRA6K
+https://raw.githubusercontent.com/thycotic/ps-secretserver-postman/master/Secret%20Server.postman_collection.json
 ```
 
 You should now see the `Secret Server` collection on the left hand side Collections pane.
