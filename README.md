@@ -35,12 +35,12 @@ You should now see the `Secret Server` collection on the left hand side Collecti
 
 If you are using this collection against your internal or local Secret Server lab you may see an initial error like this when you try to retrieve an access token:
 
-![postman initial error](images\postman-initial-error.png)
+![postman initial error](/images/postman-initial-error.png)
 
 If you show the Postman console (`ATL + CTRL + C` or _View | Show Postman Console_) you will see this message to indicate the SSL certificate for your web service cannot be validated:
 
-![postman error](images\postman-settings-ssl-cert-verification-log-entry.png)
+![postman error](/images/postman-settings-ssl-cert-verification-log-entry.png)
 
 To fix this you need to go into your settings for Postman (`CTRL + comma` or _File | Settings_) and toggle off the setting **SSL certificate verification**.
 
-![postman cert verification error](images\postman-settings-ssl-cert-verification.png)
+![postman cert verification error](/images/postman-settings-ssl-cert-verification.png)
