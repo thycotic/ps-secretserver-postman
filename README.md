@@ -1,6 +1,7 @@
+---------------------------------------
+> This repository is archived. New location of content can be found [here](https://github.com/thycotic-ps/secretserver-postman).
+---------------------------------------
 # Secert Server Postman Collections
-
-[![Professional Services](https://img.shields.io/badge/Professional%20Services-supported-informational?style=for-the-badge)]()
 
 This repository holds the collection and the environment variable JSON files to import into Postman.
 
